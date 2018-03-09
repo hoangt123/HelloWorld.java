@@ -9,7 +9,7 @@ public class LeapYear {
 	}
 
     public static void main(String[] args) {
-        LeapYear(2000);
+        LeapYear(3000);
         
     }
 }
