@@ -10,6 +10,7 @@ public class LeapYear {
 
     public static void main(String[] args) {
         LeapYear(3000);
+	LeapYear(5000);
         
     }
 }
